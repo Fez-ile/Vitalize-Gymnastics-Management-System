@@ -24,7 +24,7 @@ This system was developed as part of an academic project and demonstrates core w
 - Display progress using percentage indicators
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **PHP**
 - **MySQL**
@@ -35,7 +35,7 @@ This system was developed as part of an academic project and demonstrates core w
 
 ---
 
-## 🗄 Database Structure
+##  Database Structure
 
 The system uses a MySQL database with the following main tables:
 - `programs`
